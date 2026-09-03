@@ -2,7 +2,7 @@
 
 ### [FRASE DE IMPACTO - O QUE VOCÊ TRANSFORMA]
 
-Atuo conectando **[PILAR 1], [PILAR 2], [PILAR 3]** para criar um eu melhor e impulsionar [CONTEXTO].
+Atuo conectando a **Internet, Bluetooth e ou Ethernet** para criar um eu melhor e impulsionar a mim mesmo.
 
 Sou Formado no Ensino Médio e [FORMAÇÃO COMPLEMENTAR]. Minha jornada une [3 COMPETÊNCIAS NUCLEARES], sempre com foco em autodesenvolvimento.
 
