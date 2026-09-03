@@ -1,10 +1,10 @@
-# 👋 Olá, eu sou [SEU NOME]
+# 👋 Olá, eu sou Igor Coelho
 
 ### [FRASE DE IMPACTO - O QUE VOCÊ TRANSFORMA]
 
-Atuo conectando **[PILAR 1], [PILAR 2], [PILAR 3]** para criar [RESULTADO TANGÍVEL] e impulsionar [CONTEXTO].
+Atuo conectando **[PILAR 1], [PILAR 2], [PILAR 3]** para criar um eu melhor e impulsionar [CONTEXTO].
 
-Sou [FORMAÇÃO PRINCIPAL] e [FORMAÇÃO COMPLEMENTAR]. Minha jornada une [3 COMPETÊNCIAS NUCLEARES], sempre com foco em [O QUE MOTIVA VOCÊ].
+Sou Formado no Ensino Médio e [FORMAÇÃO COMPLEMENTAR]. Minha jornada une [3 COMPETÊNCIAS NUCLEARES], sempre com foco em autodesenvolvimento.
 
 ---
 
