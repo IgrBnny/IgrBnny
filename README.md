@@ -14,7 +14,7 @@ Sou [FORMAÇÃO PRINCIPAL] e [FORMAÇÃO COMPLEMENTAR]. Minha jornada une [3 COM
 * 💻 [Especialidade técnica principal]
 * 🤖 [Interesse em IA/Automação/Dados - escolha seu foco]
 * 📊 [Uma habilidade transversal - liderança, comunicação, análise]
-* 🌱 [Aprendizado em progresso]
+* 🌱 Aprendizado em progresso em desenvolvimento de sistemas
 * 🎯 [Sua motivação em 1 linha]
 
 ---
@@ -28,7 +28,7 @@ Sou [FORMAÇÃO PRINCIPAL] e [FORMAÇÃO COMPLEMENTAR]. Minha jornada une [3 COM
 <!-- INSTRUÇÃO: Substitua pelos ícones reais do seu stack. Use https://cdn.jsdelivr.net/gh/devicons/devicon/ -->
 <!-- Mantenha entre 8-10 tecnologias que usa AGORA, não que quer aprender -->
 
-[LINGUAGEM 1] | [LINGUAGEM 2] | [FRAMEWORK/TOOL] | [BD/INFRAESTRUTURA]
+Português | Inglês | [FRAMEWORK/TOOL] | [BD/INFRAESTRUTURA]
 
 </div>
 
