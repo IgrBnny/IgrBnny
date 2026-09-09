@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Igor Coelho
+# 👋 Olá, eu sou Ig
 
 ### [FRASE DE IMPACTO - O QUE VOCÊ TRANSFORMA]
 
